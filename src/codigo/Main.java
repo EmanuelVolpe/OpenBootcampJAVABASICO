@@ -15,5 +15,12 @@ public class Main {
         System.out.println(num3);
         System.out.println(isTrue);
         System.out.println(nombre);
+
+        System.out.println(devuelvePrecioConIVA(100.00));
+
+    }
+    public static double devuelvePrecioConIVA(double precio){
+        final double IVA = 0.21;
+        return precio + precio*IVA;
     }
 }
