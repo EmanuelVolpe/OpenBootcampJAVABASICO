@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3998146-972d-432c-8ef5-5541c6261610" name="Changes" comment="Agrega Ejercicio2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/codigo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codigo/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
