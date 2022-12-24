@@ -40,7 +40,7 @@
     "settings.editor.splitter.proportion": "0.25353217"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio3">
+  <component name="RunManager" selected="Application.Ejercicio5">
     <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tema6789.Ejercicio1" />
       <module name="OpenBootcampJAVABASICO" />
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tema4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tema4.Main" />
+    <configuration name="Ejercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tema6789.Ejercicio5" />
       <module name="OpenBootcampJAVABASICO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tema4.*" />
+          <option name="PATTERN" value="tema6789.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio5" />
         <item itemvalue="Application.Ejercicio3" />
         <item itemvalue="Application.Ejercicio2" />
         <item itemvalue="Application.Ejercicio1" />
         <item itemvalue="Application.tema5.Main" />
-        <item itemvalue="Application.tema4.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -157,5 +157,10 @@
     <MESSAGE value="Agrega Ejercicio3" />
     <MESSAGE value="Agrega Ejercicio5" />
     <option name="LAST_COMMIT_MESSAGE" value="Agrega Ejercicio5" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OpenBootcampJAVABASICO$Ejercicio5.ic" NAME="Ejercicio5 Coverage Results" MODIFIED="1671892405631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tema6789.*</FILTER>
+    </SUITE>
   </component>
 </project>
