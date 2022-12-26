@@ -15,7 +15,7 @@ public class Ejercicio5 {
         list.add("Ana");
         list.add("Joaco");
         System.out.println(list);
-        
+
         System.out.println("------------------------------------------");
 
         LinkedList<String> links = new LinkedList<String>();
